@@ -1,0 +1,10 @@
+name: test_environment
+channels:
+- conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - scikit-image
+  - PIL
