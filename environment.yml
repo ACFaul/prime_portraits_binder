@@ -7,4 +7,3 @@ dependencies:
   - matplotlib
   - scikit-learn
   - scikit-image
-  - PIL
